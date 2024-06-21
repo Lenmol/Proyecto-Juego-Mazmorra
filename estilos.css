@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(90, 33, 144);
+    display: flex;
+}
+
+img{
+    border-radius: 2px bold;
+    z-index: -10;
+}
