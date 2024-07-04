@@ -1,9 +1,23 @@
 body{
     background-color: rgb(90, 33, 144);
     display: flex;
+    justify-content: center;
 }
+
 
 img{
     border-radius: 2px bold;
-    z-index: -10;
+    z-index: -1;
+}
+
+.cuadro-acciones{
+    background-color: black;
+    width: 400px;
+    height: 300px;
+}
+
+.direccion{
+    display: grid;
+    place-content: center;
+    
 }
